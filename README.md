@@ -1,4 +1,4 @@
-> Please read our slide creation guidelines in [the wiki](https://github.com/girldevelopit/gdi-slides-template/wiki). Then, delete this banner and add the specifics about your class below. Do **not** remove or alter the [How to Use Reveal.js Slides](#how-to-use-reveal-js-slides) section at the bottom.
+> Please read our slide creation guidelines in [the wiki](https://github.com/girldevelopit/gdi-slides-template/wiki). Then, delete this banner and add the specifics about your class below. Do **not** remove or alter the [How to Use Reveal.js Slides](#how-to-use-revealjs-slides) section at the bottom.
 
 # Course Title Here
 
@@ -10,7 +10,7 @@ A short description of your course and the topics it covers.
 2. [Details for Instructors](#details-for-instructors)
     1. [Teaching Recommendations](#teaching-recommendations)
     2. [Instructor Notes](#instructor-notes)
-    3. [How to Use Reveal.js Slides](#how-to-use-reveal-js-slides)
+    3. [How to Use Reveal.js Slides](#how-to-use-revealjs-slides)
 
 
 ---
