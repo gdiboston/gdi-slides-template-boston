@@ -27,7 +27,7 @@ A short description of your course and the topics it covers.
 
 | Title | Suggested Cost | Suggested # of TAs | Description and Prereqs | Example URL |
 | ----- |:-----:| -----:| -----:| -----:|
-| Course Title Here | $#/student | # | [View](documentation/meetup-description.md) | TBA |
+| Course Title Here | $#/student | # | [View](documentation/meetup-description.md) | [View](https://www.meetup.com/Girl-Develop-It-Boston/events/235335882/) |
 
 
 ---
