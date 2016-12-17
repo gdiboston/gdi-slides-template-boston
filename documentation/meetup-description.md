@@ -31,6 +31,8 @@ And also:
 - Taken intro to JavaScript through Girl Develop It, or
 - Be familiar with syntax, arrays, conditionals, for and while loops, event handling, jQuery, AJAX requests, and handling JSON responses.
 
+All attendees are expected to abide by the [Girl Develop It Code of Conduct](http://www.girldevelopit.com/codeofconduct).
+
 ## Tech Requirements
 
 Please bring the following to each class:
