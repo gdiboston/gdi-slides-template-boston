@@ -20,7 +20,7 @@ A short description of your course and the topics it covers.
 
 | Slides | Hours | Format | Additional Notes |
 | ----- |:-----:| -----:| -----:|
-| [View](index.html) | # | X #-hour classes | Originally run for GDI Boston. |
+| [View](https://gdiboston.github.io/gdi-slides-template-boston) | # | X #-hour classes | Originally run for GDI Boston. |
 
 
 ##### Meetup Content
@@ -40,5 +40,5 @@ Place any recommendations or tips for future instructors here.
 ### Instructor Notes
 If there are notes for instructors, link to them here.
 
-### Working with Slides
+### How to Use Reveal.js Slides
 Please read our slide creation guidelines in [the wiki](https://github.com/girldevelopit/gdi-slides-template/wiki). Be sure to make your course's content as reusable as possible -- remove any information about yourself or your chapter.
