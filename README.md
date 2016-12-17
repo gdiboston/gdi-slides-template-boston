@@ -18,9 +18,9 @@ A short description of your course and the topics it covers.
 
 ## Details for Course Organizers
 
-| Slides | Hours | Format | Additional Notes |
-| ----- |:-----:| -----:| -----:|
-| [View](https://gdiboston.github.io/gdi-slides-template-boston) | # | X #-hour classes | Originally run for GDI Boston. |
+| Slides | Hours | Format | Content Creator | Additional Notes |
+| ----- |:-----:| -----:| -----:| -----:|
+| [View](https://gdiboston.github.io/gdi-slides-template-boston) | # | X #-hour classes | [@your_username](http://github.com/your_username) | Originally run for GDI Boston. |
 
 
 ##### Meetup Content
